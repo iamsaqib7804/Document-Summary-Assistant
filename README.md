@@ -80,7 +80,7 @@ An intelligent document summarization tool that extracts text from PDFs and imag
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/iamsaqib7804/Document-Summary-Assistant.git](https://github.com/iamsaqib7804/Document-Summary-Assistant)
+git clone [https://github.com/iamsaqib7804/Document-Summary-Assistant.git]
 cd Document-Summary-Assistant
 
 
