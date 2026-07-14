@@ -5,7 +5,7 @@ An intelligent document summarization tool that extracts text from PDFs and imag
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://document-summary-assistant.vercel.app
+- **Frontend:** [https://document-summary-assistant.vercel.app](https://document-summary-assistant-xi.vercel.app/)
 - **Backend API:** https://document-summary-assistant-1-yebb.onrender.com
 - **API Documentation:** https://document-summary-assistant-1-yebb.onrender.com/docs
 
