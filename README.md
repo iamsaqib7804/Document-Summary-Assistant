@@ -6,8 +6,8 @@ An intelligent document summarization tool that extracts text from PDFs and imag
 ## 🌐 Live Demo
 
 - **Frontend:** [https://document-summary-assistant.vercel.app](https://document-summary-assistant-xi.vercel.app/)
-- **Backend API:** https://document-summary-assistant-1-yebb.onrender.com
-- **API Documentation:** https://document-summary-assistant-1-yebb.onrender.com/docs
+- **Backend API:** [https://document-summary-assistant-1-yebb.onrender.com](https://document-summary-assistant-1-yebb.onrender.com/)
+- **API Documentation:** [https://document-summary-assistant-1-yebb.onrender.com/docs](https://document-summary-assistant-1-yebb.onrender.com/docs)
 
 ## ✨ Features
 
@@ -80,7 +80,7 @@ An intelligent document summarization tool that extracts text from PDFs and imag
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/iamsaqib7804/Document-Summary-Assistant.git
+git clone [https://github.com/iamsaqib7804/Document-Summary-Assistant.git](https://github.com/iamsaqib7804/Document-Summary-Assistant)
 cd Document-Summary-Assistant
 
 
