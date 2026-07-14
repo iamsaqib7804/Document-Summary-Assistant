@@ -1,0 +1,5 @@
+The Document Summary Assistant has been created to make the process of extracting important information from lengthy documents quicker and easier. I used FastAPI for the backend, which is fast and automatically generates API documentation. The frontend is created using React and Vite that allows for rapid development, in addition to Tailwind CSS to help with the creation of a modern user interface that is responsive.
+
+When it comes to technical choices, pdfplumber is used for parsing the documents since it has been proved to preserve the formatting better than other alternatives. Next, I chose to go for Tesseract for implementing OCR technology which helps how to deal with images of text better than ever. Additionally, I managed to integrate Gemini AI from Google which helped in creating summaries with distinct lengths.
+
+The user interface consists of dark/light mode, animated backgrounds, drag-and-drop file upload, and progress indicators with the ability to copy-to-clipboard and the ability to download the document. The application also consisted of advanced error handling with retry logic and helpful error messages in case something goes seriously wrong.
